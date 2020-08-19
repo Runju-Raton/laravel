@@ -1,0 +1,1 @@
+<h1 style="width:100%;height:100px; background-color:gray;">This is footer section</h1>
